@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Day6_how_to_Isolate_Dependency_and_features
 {
+    /// <summary>
+    /// 使用繼承及覆寫使方法可測試
+    /// </summary>
     public class Validation
     {
         public bool CheckAuthentication(string id, string password)
