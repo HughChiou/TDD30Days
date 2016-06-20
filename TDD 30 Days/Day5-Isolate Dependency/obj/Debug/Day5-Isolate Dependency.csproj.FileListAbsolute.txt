@@ -1,0 +1,5 @@
+c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate Dependency\bin\Debug\Day5-Isolate Dependency.dll
+c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate Dependency\bin\Debug\Day5-Isolate Dependency.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate Dependency\obj\Debug\Day5-Isolate Dependency.csprojResolveAssemblyReference.cache
+c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate Dependency\obj\Debug\Day5-Isolate Dependency.dll
+c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate Dependency\obj\Debug\Day5-Isolate Dependency.pdb
