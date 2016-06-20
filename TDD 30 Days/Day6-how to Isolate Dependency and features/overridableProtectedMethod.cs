@@ -13,7 +13,7 @@ namespace Day6_how_to_Isolate_Dependency_and_features
             var accountDao = GetAccountDao();
             var passwordByDao = accountDao.GetPassword(id);
 
-            var hash = new Hash();
+            var hash = GetHash();
             var hashResult = hash.GetHashResult(password);
 
             return passwordByDao == hashResult;
@@ -44,33 +44,33 @@ namespace Day6_how_to_Isolate_Dependency_and_features
                 return "123";
             }
         }
+    }
 
-        public class MyValidation : Validation
+    public class MyValidation : Validation
+    {
+        protected override AccountDao GetAccountDao()
         {
-            protected override AccountDao GetAccountDao()
-            {
-                return new StubAccountDao();
-            }
+            return new StubAccountDao();
+        }
 
-            protected override Hash GetHash()
-            {
-                return new StubHash();
-            }
+        protected override Hash GetHash()
+        {
+            return new StubHash();
+        }
 
-            public class StubAccountDao : AccountDao
+        public class StubAccountDao : AccountDao
+        {
+            public override string GetPassword(string id)
             {
-                public override string GetPassword(string id)
-                {
-                    return "91";
-                }
+                return "91";
             }
+        }
 
-            public class StubHash : Hash
+        public class StubHash : Hash
+        {
+            public override string GetHashResult(string password)
             {
-                public override string GetHashResult(string password)
-                {
-                    return "91";
-                }
+                return "91";
             }
         }
     }
