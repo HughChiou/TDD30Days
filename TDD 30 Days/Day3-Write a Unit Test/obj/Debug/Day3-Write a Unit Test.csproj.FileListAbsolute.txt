@@ -3,3 +3,8 @@ c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day3-Write a Uni
 c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day3-Write a Unit Test\obj\Debug\Day3-Write a Unit Test.csprojResolveAssemblyReference.cache
 c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day3-Write a Unit Test\obj\Debug\Day3-Write a Unit Test.dll
 c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day3-Write a Unit Test\obj\Debug\Day3-Write a Unit Test.pdb
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day3-Write a Unit Test\bin\Debug\Day3-Write a Unit Test.dll
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day3-Write a Unit Test\bin\Debug\Day3-Write a Unit Test.pdb
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day3-Write a Unit Test\obj\Debug\Day3-Write a Unit Test.csprojResolveAssemblyReference.cache
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day3-Write a Unit Test\obj\Debug\Day3-Write a Unit Test.dll
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day3-Write a Unit Test\obj\Debug\Day3-Write a Unit Test.pdb

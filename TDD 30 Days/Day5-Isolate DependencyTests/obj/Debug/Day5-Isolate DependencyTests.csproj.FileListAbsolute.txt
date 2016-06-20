@@ -6,3 +6,11 @@ c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate Dep
 c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate DependencyTests\obj\Debug\Day5-Isolate DependencyTests.csprojResolveAssemblyReference.cache
 c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate DependencyTests\obj\Debug\Day5-Isolate DependencyTests.dll
 c:\users\hugh\documents\visual studio 2015\Projects\TDD 30 Days\Day5-Isolate DependencyTests\obj\Debug\Day5-Isolate DependencyTests.pdb
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day5-Isolate DependencyTests\bin\Debug\Day5-Isolate DependencyTests.dll
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day5-Isolate DependencyTests\bin\Debug\Day5-Isolate DependencyTests.pdb
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day5-Isolate DependencyTests\bin\Debug\Day5-Isolate Dependency.dll
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day5-Isolate DependencyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day5-Isolate DependencyTests\bin\Debug\Day5-Isolate Dependency.pdb
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day5-Isolate DependencyTests\obj\Debug\Day5-Isolate DependencyTests.csprojResolveAssemblyReference.cache
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day5-Isolate DependencyTests\obj\Debug\Day5-Isolate DependencyTests.dll
+C:\Users\Hugh\Source\Repos\TDD30Days2\TDD 30 Days\Day5-Isolate DependencyTests\obj\Debug\Day5-Isolate DependencyTests.pdb

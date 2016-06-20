@@ -43,7 +43,7 @@ namespace Day3_Write_a_Unit_TestTests
         string GetPassword(string id);
     }
 
-    internal class AccountDao : IAccountDao
+    public class AccountDao : IAccountDao
     {
         public string GetPassword(string id)
         {
@@ -57,7 +57,7 @@ namespace Day3_Write_a_Unit_TestTests
         string GetHashResult(string password);
     }
 
-    internal class Hash : IHash
+    public class Hash : IHash
     {
         public string GetHashResult(string password)
         {
