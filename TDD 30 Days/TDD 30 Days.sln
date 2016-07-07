@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3-Write a Unit Test", "Day3-Write a Unit Test\Day3-Write a Unit Test.csproj", "{F3F706A7-4B54-4CFA-8D0F-272C1990E7BF}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7-Stub,Mock,Fake synopsis", "Day7-Stub,Mock,Fake synopsis\Day7-Stub,Mock,Fake synopsis.csproj", "{C502E967-B35C-4C8D-8E5D-FCBD6BF1235C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7-Stub,Mock,Fake synopsisTests", "Day7-Stub,Mock,Fake synopsisTests\Day7-Stub,Mock,Fake synopsisTests.csproj", "{F39DC68A-BEA8-46D8-8DAF-CBC58981DB94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityDemo01", "UnityDemo01\UnityDemo01.csproj", "{AE4BAAD0-2486-4409-83C7-2AC8F83E89FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{F39DC68A-BEA8-46D8-8DAF-CBC58981DB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F39DC68A-BEA8-46D8-8DAF-CBC58981DB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F39DC68A-BEA8-46D8-8DAF-CBC58981DB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4BAAD0-2486-4409-83C7-2AC8F83E89FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4BAAD0-2486-4409-83C7-2AC8F83E89FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4BAAD0-2486-4409-83C7-2AC8F83E89FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4BAAD0-2486-4409-83C7-2AC8F83E89FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
